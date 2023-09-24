@@ -16,4 +16,6 @@
 ## Penjelasan Lengkap Program
 1. Program dimulai dengan menginputkan login sederhana pengguna, menggunakan nama & nim
 2. Kemudian pengguna masuk kedalam pemilihan sisi (sisi yang tersedia ada sisi Tegak,Alas & Miring), pengguna memasukkan sisi yang dibutuhkan
-3. Setelah memasukkan sisi, pengguna memasukkan panjang sisi
+3. Jika pengguna salah memasukkan sisi, maka akan muncul "Tidak ada pilihan ini, coba masukkan sisi 1,2 atau 3"
+4. Setelah memasukkan sisi, pengguna memasukkan panjang sisi yang berguna untuk menghitung sisi yang dibutuhkan
+5. Terakhir jika semua panjang sisi sudah di isi, maka akan muncul output dari sisi yang di butuhkan.
