@@ -13,7 +13,7 @@
 ![alt text](https://github.com/NabilMaruf/Repo_Nabil/blob/main/Tegak.jpeg?raw=true)
 ## 6. Contoh Output Sisi Miring
 ![alt text](https://github.com/NabilMaruf/Repo_Nabil/blob/main/Miring.jpeg?raw=true)
-## Penjelasan Lengkap Program
+## Penjelasan Program
 1. Program dimulai dengan menginputkan login sederhana pengguna, menggunakan nama & nim
 2. Kemudian pengguna masuk kedalam pemilihan sisi (sisi yang tersedia ada sisi Tegak,Alas & Miring), pengguna memasukkan sisi yang dibutuhkan
 3. Jika pengguna salah memasukkan sisi, maka akan muncul "Tidak ada pilihan ini, coba masukkan sisi 1,2 atau 3"
