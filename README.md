@@ -1,5 +1,5 @@
 ## Flowchart menghitung rumus segitiga pythagoras
-![alt text](https://github.com/NabilMaruf/Repo_Nabil/blob/main/Flowchart%20Segitiga%20Pythagoras.jpg?raw=true)
+![alt text](https://github.com/NabilMaruf/TugasPostest1_Nabil/blob/main/Flowchart%20Segitiga%20Pythagoras%20(2).jpg?raw=true)
 ## 1. Login Sederhana (Program untuk menginput nama & nim pengguna)
 ![alt text](https://github.com/NabilMaruf/Repo_Nabil/blob/main/Masukkan%20Nama.jpeg?raw=true)
 ## 2. Memilih sisi (Program untuk menginput sisi apa yang ingin di ambil)
@@ -15,3 +15,5 @@
 ![alt text](https://github.com/NabilMaruf/Repo_Nabil/blob/main/Miring.jpeg?raw=true)
 ## Penjelasan Lengkap Program
 1. Program dimulai dengan menginputkan login sederhana pengguna, menggunakan nama & nim
+2. Kemudian pengguna masuk kedalam pemilihan sisi (sisi yang tersedia ada sisi Tegak,Alas & Miring), pengguna memasukkan sisi yang dibutuhkan
+3. Setelah memasukkan sisi, pengguna memasukkan panjang sisi
