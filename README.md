@@ -13,3 +13,4 @@
 ![alt text](https://github.com/NabilMaruf/Repo_Nabil/blob/main/Tegak.jpeg?raw=true)
 ## 6. Contoh Output Sisi Miring
 ![alt text](https://github.com/NabilMaruf/Repo_Nabil/blob/main/Miring.jpeg?raw=true)
+- Penjelasan Lengkap Program
